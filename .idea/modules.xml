@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaratonaJava.iml" filepath="$PROJECT_DIR$/MaratonaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora-juros-compostos/calculadora-juros-compostos.iml" filepath="$PROJECT_DIR$/calculadora-juros-compostos/calculadora-juros-compostos.iml" />
+    </modules>
+  </component>
+</project>
