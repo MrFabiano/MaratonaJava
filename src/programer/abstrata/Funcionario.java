@@ -14,7 +14,7 @@ public abstract class Funcionario extends Pessoa{
 
     @Override
     public void imprime() {
-        System.out.println("Imprime");
+        System.out.println("Imprimindo");
     }
 
     @Override

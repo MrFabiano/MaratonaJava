@@ -4,6 +4,11 @@ public class Funcionario extends Pessoa{
 
     private Double salario;
 
+    public void imprime(){
+        super.imprime();
+        System.out.println(this.salario);
+    }
+
     public Funcionario(String nome) {
         super(nome);
     }

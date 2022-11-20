@@ -6,6 +6,8 @@ public class Professor {
     private String especialidade;
     private Seminario[] seminarios;
 
+    private Local local;
+
 
     public Professor(String nome, String especialidade) {
         this.nome = nome;
@@ -30,6 +32,14 @@ public class Professor {
             }
         }
 
+    }
+
+    public Local getLocal() {
+        return local;
+    }
+
+    public void setLocal(Local local) {
+        this.local = local;
     }
 
     public Professor(String nome) {
