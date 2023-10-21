@@ -9,8 +9,5 @@
         <module name="calculadora-juros-compostos" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="calculadora-juros-compostos" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
